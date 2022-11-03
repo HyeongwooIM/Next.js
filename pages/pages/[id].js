@@ -14,7 +14,7 @@ const Post = () => {
 	function getData() {
 		axios.get(API_URL).then((res) => {
 			console.log(res)
-			setItem(res.data);
+			setItem(res);
 		});
 	}
 
