@@ -13,3 +13,15 @@ useStatus
 
 export default
 
+ssr (Server Side Rendering)
+
+csr (Client Side Rendering)
+
+catch() ther()
+
+try...catch
+
+promise
+
+async awit - 동기처리
+
